@@ -1,0 +1,15 @@
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.AssemblyInfoInputs.cache
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.AssemblyInfo.cs
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.csproj.CoreCompileInputs.cache
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.sourcelink.json
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\bin\Debug\net8.0\TwoSumApp.exe
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\bin\Debug\net8.0\TwoSumApp.deps.json
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\bin\Debug\net8.0\TwoSumApp.runtimeconfig.json
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\bin\Debug\net8.0\TwoSumApp.dll
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\bin\Debug\net8.0\TwoSumApp.pdb
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.dll
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\refint\TwoSumApp.dll
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.pdb
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\TwoSumApp.genruntimeconfig.cache
+C:\Users\mindr\OneDrive\Documents\PERSONAL PROJECT\PracticeProgramming\TwoSumApp\obj\Debug\net8.0\ref\TwoSumApp.dll
